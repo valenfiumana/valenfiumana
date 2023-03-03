@@ -11,8 +11,6 @@
 <img align="right" alt="GIF" src="./codingGif.gif" width="500" height="320" />
 
 
-I'm a description
-
 * 🌍  I'm based in Buenos Aires, Argentina
 * 🤓  Currently studying a Certificate Program in Data Science & Artificial Inteligence, as well as Electronical Engineering
 * 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/valenfiumana/) , [Email](mailto:valen.fiumana@gmail.com)
