@@ -4,8 +4,7 @@
 <!-- About section -->
 
 ---
-✨ I'm a FullStack jr. Developer passionate about learning and chalenging myself constantly. 
-When I'm not coding or in class, you can find me geeking about cooking plant-based foods and going to the gym.
+✨ I'm a FullStack jr. developer passionate about learning and chalenging myself constantly. 
 
 
 <!-- code gif-->
@@ -16,7 +15,8 @@ I'm a description
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * 🤓  Currently studying a Certificate Program in Data Science & Artificial Inteligence, as well as Electronical Engineering
-* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/valenfiumana/) , [Email](mailto:valen.fiumana@gmail.com)
+* 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/valenfiumana/) , [Email](mailto:valen.fiumana@gmail.com)
+* 🌱  When I'm not coding or in class, you can find me geeking about cooking plant-based foods and going to the gym.
 * ⚡  I get my cardio by running (code)
 <!--* 🖥️  See my portfolio at [MyPortfolio](http://link.com)-->
 <!--* 🚀  I'm currently working on [MyApp](http://myapp.com)-->
