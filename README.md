@@ -1,5 +1,5 @@
 
-<p  align="center"><img height="380" src = "Banner.gif"></p>
+<p  align="center"><img src = "Banner.gif"></p>
 
 <!-- About section -->
 
