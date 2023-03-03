@@ -4,7 +4,7 @@
 <!-- About section -->
 
 ---
-✨ I'm a FullStack jr. developer passionate about learning and chalenging myself constantly. 
+I'm a FullStack jr. developer passionate about learning and chalenging myself constantly. 
 
 
 <!-- code gif-->
@@ -62,7 +62,7 @@
 
 <p align="left"> <a href="https://www.github.com/valenfiumana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/valenfiumana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <br/>
-I am looking forward to absorb knowledge,gain experience , collaborate and build amazing products for the world!🤝
+I am looking forward to absorbing new knowledge, gaining experience and building astounding products and projects for the world!🤝
 
 
 <!--
