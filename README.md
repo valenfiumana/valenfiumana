@@ -12,7 +12,8 @@ I'm a FullStack jr. developer passionate about learning and chalenging myself co
 
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* 🤓  Currently studying a Certificate Program in Data Science & Artificial Inteligence, as well as Electronical Engineering
+* 💼  I work as a developer at JPMorgan – I spend my days solving problems (and creating a few) in the world of finance tech
+* 🤓  Currently studying Computer Engineering
 * 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/valenfiumana/) , [Email](mailto:valen.fiumana@gmail.com)
 * 🌱  When I'm not coding or in class, you can find me geeking about cooking plant-based foods and going to the gym.
 * ⚡  I get my cardio by running (code)
