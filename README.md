@@ -4,7 +4,7 @@
 <!-- About section -->
 
 ---
-I'm a FullStack jr. developer passionate about learning and chalenging myself constantly. 
+I'm a FullStack developer passionate about learning and chalenging myself constantly. 
 
 
 <!-- code gif-->
